@@ -15,4 +15,5 @@ Responsive and user-friendly interface
 Frontend: HTML, CSS, Bootstrap, EJS
 Backend: Node.js, Express.js
 Database: MongoDB
-ODM: Mongoose
+API Architecture: REST API
+Containerization: Docker
