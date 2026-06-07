@@ -17,3 +17,6 @@ Backend: Node.js, Express.js
 Database: MongoDB
 API Architecture: REST API
 Containerization: Docker
+
+# Author
+Aiden Vihaan
