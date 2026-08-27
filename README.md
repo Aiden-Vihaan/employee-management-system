@@ -1,4 +1,4 @@
-# employee-management-system
+# Employee-Management-System
 A full-stack CRUD web application built using Node.js, Express.js, MongoDB, and Mongoose for managing employee records efficiently. 
 
 # Features
